@@ -110,7 +110,7 @@ Kalau kamu suka game ini:
 
 ### 📖 About
 
-**[Game Name]** is a **2D Platformer** that blends classic jump-and-run action with trivia challenges! Explore a pixel-art world, find **10 mysterious statues** scattered across the map, and answer their questions to rack up the highest score possible — but be careful, falling into the water means game over.
+**Programming Pathways** is a **2D Platformer** that blends classic jump-and-run action with trivia challenges! Explore a pixel-art world, find **10 mysterious statues** scattered across the map, and answer their questions to rack up the highest score possible but be careful, falling into the water means game over.
 
 <div align="center">
 <i>[Put your gameplay screenshot or GIF here]</i>
