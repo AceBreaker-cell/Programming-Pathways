@@ -33,6 +33,8 @@
 
 <div align="center">
   <img width="1919" height="862" alt="Screenshot 2026-07-26 155332" src="https://github.com/user-attachments/assets/c965a83d-9f48-4957-b03f-8e40654c9751" />
+  <img width="1919" height="862" alt="Screenshot 2026-07-26 155559" src="https://github.com/user-attachments/assets/871ce6bd-30c5-406a-adf2-a638304150f2" />
+
 </div>
 
 ### ✨ Fitur
@@ -50,6 +52,9 @@
 | 🏔️ **Parallax Background** | Latar belakang looping tak terbatas |
 | 🎵 **Musik & SFX Dinamis** | Musik berbeda untuk menu & gameplay + SFX lompat, klik, jawaban, kematian, kemenangan |
 | ✨ **Particle Effect** | Efek visual setiap kali menjawab pertanyaan |
+
+<img width="1919" height="862" alt="Screenshot 2026-07-26 171351" src="https://github.com/user-attachments/assets/df40401d-dfd9-47af-8b01-5c4a1be6069e" />
+
 
 ### 🎮 Cara Bermain
 
@@ -113,7 +118,9 @@ Kalau kamu suka game ini:
 **Programming Pathways** is a **2D Platformer** that blends classic jump-and-run action with trivia challenges! Explore a pixel-art world, find **10 mysterious statues** scattered across the map, and answer their questions to rack up the highest score possible but be careful, falling into the water means game over.
 
 <div align="center">
-<i>[Put your gameplay screenshot or GIF here]</i>
+  <img width="1919" height="862" alt="Screenshot 2026-07-26 155332" src="https://github.com/user-attachments/assets/5c931c31-1d57-4b76-83a9-b0d50dbb1b43" />
+  <img width="1916" height="866" alt="Screenshot 2026-07-26 155559" src="https://github.com/user-attachments/assets/c7364d54-26bc-4bc2-9904-7ddbe7fc78b8" />
+
 </div>
 
 ### ✨ Features
@@ -131,6 +138,9 @@ Kalau kamu suka game ini:
 | 🏔️ **Parallax Background** | Seamless infinite-looping background |
 | 🎵 **Dynamic Music & SFX** | Separate music for menu & gameplay + SFX for jump, click, answers, death, victory |
 | ✨ **Particle Effects** | Visual feedback every time you answer a question |
+
+<img width="1911" height="864" alt="Screenshot 2026-07-26 171351" src="https://github.com/user-attachments/assets/2ae88e9d-9b0e-4da6-8b87-5ce781429ef9" />
+
 
 ### 🎮 How to Play
 
