@@ -13,8 +13,8 @@
 
 ### 🌐 Pilih Bahasa / Choose Language
 
-[<a href="#bahasa-indonesia"><img src="https://img.shields.io/badge/🇮🇩-Bahasa%20Indonesia-red?style=for-the-badge" /></a>]((README.md))
-[<a href="#english"><img src="https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge" /></a>]((README.en.md))
+[<a href="#bahasa-indonesia"><img src="https://img.shields.io/badge/🇮🇩-Bahasa%20Indonesia-red?style=for-the-badge" /></a>](README.md)
+[<a href="#english"><img src="https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge" /></a>](README.en.md)
 
 **[🎮 Play on itch.io](https://acebreaker-cell.itch.io/programming-pathways)**
 
