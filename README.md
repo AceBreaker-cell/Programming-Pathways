@@ -207,6 +207,6 @@ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
 <div align="center">
 
-Made with ❤️ by **Albatany** — 2026
+Made with ❤️ by **Albatany** 2026
 
 </div>
